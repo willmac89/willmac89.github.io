@@ -141,6 +141,10 @@ footer {
   margin-top: 35px;
 }
 
+.footer-what {
+  margin-top: 200px;
+}
+
 footer .col-sm-8 {
   display: flex;
   justify-content: flex-end;
@@ -190,4 +194,5 @@ footer li img {
   border-color: #0D47A1;
   border-left-style: solid;
   border-left-width: normal;
+  background-color: #82B1FF;
 }
