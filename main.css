@@ -117,6 +117,7 @@ section .row img {
 .btn.btn-primary:hover {
   color: #fff;
   background-color: #0D47A1;
+  border-color: #0D47A1;
 }
 
 .btn-secondary {
@@ -124,12 +125,14 @@ section .row img {
   color: #ffffff;
   margin: 0 0 30px;
   align-items: center;
-  margin-top: 55px;
+  margin-top: 160px;
+  width: 25%;
 }
 
 .btn-secondary:hover {
   color: #0D47A1;
   background-color: #fff;
+  border-color: #0D47A1;
 }
 
 footer {
@@ -180,6 +183,11 @@ footer li img {
   margin-top: 3%;
 }
 
-.lizpic {
+/*What We Do*/
 
+.whatparagraph {
+  border-left: 2px;
+  border-color: #0D47A1;
+  border-left-style: solid;
+  border-left-width: normal;
 }
