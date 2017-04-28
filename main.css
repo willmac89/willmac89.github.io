@@ -54,11 +54,12 @@ header p {
 .whatjumbo {
   display: flex;
   align-items: center;
-  background-image: url('http://europevideoproductions.com/files/uploads/lavender-field-provence-france.jpg');
+  background-image: url('http://farm5.staticflickr.com/4119/4791506452_df4dabb120_b.jpg');
   background-size: cover;
   color: #ffffff;
-  height: 400px;
+  height: 200px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
+  background-position: center;
 }
 
 .jumbotron h2 {
