@@ -1,0 +1,178 @@
+
+/* General*/
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+header {
+  padding: 20px 0;
+}
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+  color: #0D47A1;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+  color: #0D47A1;
+  font-size: 14px;
+}
+
+a:link    {
+  text-decoration:  none;
+  }
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+
+/* Specific */
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('http://i64.tinypic.com/24uypw2.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 400px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.whatjumbo {
+  display: flex;
+  align-items: center;
+  background-image: url('http://europevideoproductions.com/files/uploads/lavender-field-provence-france.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 400px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: #fff;
+}
+
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.col-md-6 p {
+  margin: 0 0 30px;
+}
+
+.col-md-8 p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 120%;
+}
+
+.col-sm-6 p {
+  margin-top: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 130%;
+}
+
+.col-md-9 p {
+  margin-top: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 130%;
+}
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
+
+.btn.btn-primary:hover {
+  color: #fff;
+  background-color: #0D47A1;
+}
+
+.btn-secondary {
+  background-color: #0D47A1;
+  color: #ffffff;
+  margin: 0 0 30px;
+  align-items: center;
+}
+
+.btn-secondary:hover {
+  color: #0D47A1;
+  background-color: #fff;
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+  margin-top: 35px;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
+
+/* Who We Are */
+
+.ianmacfarlane {
+  width: 30%;
+  height: 30%;
+  float: left;
+}
+
+.iantitle {
+  margin-bottom: 8%;
+  margin-top: 6%;
+}
+
+.ianparagraph {
+  margin-left: 30%;
+  margin-top: 4%;
+}
+
+.liztitle {
+  margin-bottom: 8%;
+  margin-top: 8%;
+}
+
+.lizparagraph {
+  margin-left: 30%;
+  margin-top: 3%;
+}
+
+.lizpic {
+
+}
