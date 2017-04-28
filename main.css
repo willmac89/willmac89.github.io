@@ -62,6 +62,10 @@ header p {
   background-position: center;
 }
 
+.whatparagraph {
+  margin-top: 65px;
+}
+
 .jumbotron h2 {
   font-size: 60px;
   font-weight: 700;
