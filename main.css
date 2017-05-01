@@ -161,6 +161,10 @@ footer li img {
 
 /* Who We Are */
 
+.liz_section {
+  margin-top: 10px;
+}
+
 .ianmacfarlane {
   width: 30%;
   height: 30%;
@@ -174,7 +178,7 @@ footer li img {
 
 .ianparagraph {
   margin-left: 30%;
-  margin-top: 4%;
+  margin-top: 0%;
 }
 
 .liztitle {
@@ -184,7 +188,15 @@ footer li img {
 
 .lizparagraph {
   margin-left: 30%;
-  margin-top: 3%;
+  margin-top: 12%;
+}
+
+.lizpic {
+  margin-top: 9%;
+}
+
+.who_footer {
+  margin-top: 12%;
 }
 
 /*What We Do*/
@@ -194,5 +206,4 @@ footer li img {
   border-color: #0D47A1;
   border-left-style: solid;
   border-left-width: normal;
-  background-color: #82B1FF;
 }
