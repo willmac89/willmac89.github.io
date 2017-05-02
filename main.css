@@ -10,6 +10,11 @@ header {
   padding: 20px 0;
 }
 
+.h1_logo {
+  font-size: 210%;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
 header .row,
 footer .row {
   display: flex;
@@ -18,20 +23,21 @@ footer .row {
 
 
 header h1 {
-  font-weight: 700;
+  font-weight: 550;
   margin: 0;
   color: #0D47A1;
 }
 
 header nav {
   display: flex;
-  justify-content: flex-end;
   color: #0D47A1;
-  font-size: 14px;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 100%;
+  margin-bottom: 2%;
 }
 
 a:link    {
-  text-decoration:  none;
+  text-decoration: none;
   }
 
 header p {
@@ -44,11 +50,12 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('http://i64.tinypic.com/24uypw2.jpg');
+  background-image: url('http://i.imgur.com/ulx7jKM.jpg?1');
   background-size: cover;
   color: #ffffff;
-  height: 450px;
+  height: 420px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
+  background-position: 30% 30%;
 }
 
 .whatjumbo {
